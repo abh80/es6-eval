@@ -1,0 +1,9 @@
+{
+ "name":"es6-eval",
+ "version":"1.0.0",
+ "main":"index.js",
+ "license":"MIT",
+ "description":"A simple module to eval es6 modules",
+ "type":"module"
+}
+ 
